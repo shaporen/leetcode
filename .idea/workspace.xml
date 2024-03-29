@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b084c3af-b89f-4853-89d9-6423ee831aa5" name="Changes" comment="leetcode">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/array/RomanToInt.java" afterDir="false" />
+    <list default="true" id="b084c3af-b89f-4853-89d9-6423ee831aa5" name="Changes" comment="Roman to Integer">
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/algoritms/MergeTwoSortedLists.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/TwoSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/array/TwoSum.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +43,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;org.infernus.idea.checkstyle.CheckStyleConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.RomanToInt">
+  <component name="RunManager">
     <configuration name="IsPalindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ru.IsPalindrome" />
       <module name="leetcode" />
@@ -157,7 +156,14 @@
       <option name="project" value="LOCAL" />
       <updated>1711296946218</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Roman to Integer">
+      <created>1711737816272</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1711737816272</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -173,6 +179,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="leetcode" />
-    <option name="LAST_COMMIT_MESSAGE" value="leetcode" />
+    <MESSAGE value="Roman to Integer" />
+    <option name="LAST_COMMIT_MESSAGE" value="Roman to Integer" />
   </component>
 </project>
