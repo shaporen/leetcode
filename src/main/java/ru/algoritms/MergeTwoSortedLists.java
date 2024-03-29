@@ -2,6 +2,11 @@ package ru.algoritms;
 
 import java.util.*;
 
+/**
+ * Класс объединяет два неосортированных списка и выводит
+ * итоговый список в отсортированном порядке
+ */
+
 public class MergeTwoSortedLists {
     public static List<Integer> mergeTwoLists(List<Integer> list1, List<Integer> list2) {
         List<Integer> list = new ArrayList<>(list1.size() + list2.size());
@@ -12,9 +17,9 @@ public class MergeTwoSortedLists {
     }
 
     public static void main(String[] args) {
-        List<Integer> list1 = List.of(1, 2, 7);
-        List<Integer> list2 = List.of(2, 4, 5, 7);
+        List<Integer> list1 = List.of(9, 2, 8);
+        List<Integer> list2 = List.of(6, 4, 5, 7);
         List<Integer> list = mergeTwoLists(list1, list2);
-        list.stream().forEach(System.out::println);
+        System.out.println(Arrays.toString(list.toArray()));
     }
 }
