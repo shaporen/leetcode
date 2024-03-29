@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b084c3af-b89f-4853-89d9-6423ee831aa5" name="Changes" comment="Roman to Integer">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/algoritms/MergeTwoSortedLists.java" afterDir="false" />
+    <list default="true" id="b084c3af-b89f-4853-89d9-6423ee831aa5" name="Changes" comment="Merge Two Sorted Lists">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/algoritms/MergeTwoSortedLists.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/algoritms/MergeTwoSortedLists.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,9 +43,9 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;org.infernus.idea.checkstyle.CheckStyleConfigurable&quot;
   }
 }</component>
-  <component name="RunManager">
-    <configuration name="IsPalindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.IsPalindrome" />
+  <component name="RunManager" selected="Application.MergeTwoSortedLists">
+    <configuration name="LengthOfLastWord" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.LengthOfLastWord" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -57,12 +57,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LengthOfLastWord" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.LengthOfLastWord" />
+    <configuration name="MergeTwoSortedLists" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.algoritms.MergeTwoSortedLists" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ru.array.*" />
+          <option name="PATTERN" value="ru.algoritms.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,11 +111,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MergeTwoSortedLists" />
         <item itemvalue="Application.RomanToInt" />
         <item itemvalue="Application.Solution" />
         <item itemvalue="Application.TwoSum" />
         <item itemvalue="Application.LengthOfLastWord" />
-        <item itemvalue="Application.IsPalindrome" />
       </list>
     </recent_temporary>
   </component>
@@ -163,7 +163,14 @@
       <option name="project" value="LOCAL" />
       <updated>1711737816272</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Merge Two Sorted Lists">
+      <created>1711739403350</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1711739403350</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -180,6 +187,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="leetcode" />
     <MESSAGE value="Roman to Integer" />
-    <option name="LAST_COMMIT_MESSAGE" value="Roman to Integer" />
+    <MESSAGE value="Merge Two Sorted Lists" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge Two Sorted Lists" />
   </component>
 </project>
