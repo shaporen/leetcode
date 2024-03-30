@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b084c3af-b89f-4853-89d9-6423ee831aa5" name="Changes" comment="MergeTwoUnSortedDifLists">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/algoritms/CountOfNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ru/algoritms/CountOfNumbersTest.java" afterDir="false" />
+    <list default="true" id="b084c3af-b89f-4853-89d9-6423ee831aa5" name="Changes" comment="CountOfNumbers">
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/algoritms/RemoveDubles.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -17,8 +16,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="JUnit5 Test Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -55,7 +54,7 @@
       <recent name="ru.algoritms" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.CountOfNumbersTest.when">
+  <component name="RunManager" selected="Application.RemoveDubles">
     <configuration name="CountOfNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ru.algoritms.CountOfNumbers" />
       <module name="leetcode" />
@@ -69,8 +68,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MergeTwoSortedLists" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.algoritms.MergeTwoSortedLists" />
+    <configuration name="RemoveDubles" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.algoritms.RemoveDubles" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -132,11 +131,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.CountOfNumbersTest.when" />
+        <item itemvalue="Application.RemoveDubles" />
         <item itemvalue="Application.CountOfNumbers" />
+        <item itemvalue="JUnit.CountOfNumbersTest.when" />
         <item itemvalue="JUnit.MergeTwoSortedListsTest.when2DifferentArrayThenList" />
         <item itemvalue="JUnit.MergeTwoSortedListsTest.when2SameArrayThenList" />
-        <item itemvalue="Application.MergeTwoSortedLists" />
       </list>
     </recent_temporary>
   </component>
@@ -226,7 +225,14 @@
       <option name="project" value="LOCAL" />
       <updated>1711805686335</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="CountOfNumbers">
+      <created>1711810743250</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1711810743250</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -248,17 +254,7 @@
     <MESSAGE value="Roman To Int with HashMap" />
     <MESSAGE value="MergeTwoSortedLists" />
     <MESSAGE value="MergeTwoUnSortedDifLists" />
-    <option name="LAST_COMMIT_MESSAGE" value="MergeTwoUnSortedDifLists" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/ru/algoritms/MergeTwoSortedLists.java</url>
-          <line>11</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="CountOfNumbers" />
+    <option name="LAST_COMMIT_MESSAGE" value="CountOfNumbers" />
   </component>
 </project>
