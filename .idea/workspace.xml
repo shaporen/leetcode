@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b084c3af-b89f-4853-89d9-6423ee831aa5" name="Changes" comment="RemoveDubles">
+      <change beforePath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
@@ -54,7 +55,7 @@
       <recent name="ru.algoritms" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.RemoveDubles">
+  <component name="RunManager" selected="Application.CountOfNumbers">
     <configuration name="CountOfNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ru.algoritms.CountOfNumbers" />
       <module name="leetcode" />
@@ -131,8 +132,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.RemoveDubles" />
         <item itemvalue="Application.CountOfNumbers" />
+        <item itemvalue="Application.RemoveDubles" />
         <item itemvalue="JUnit.CountOfNumbersTest.when" />
         <item itemvalue="JUnit.MergeTwoSortedListsTest.when2DifferentArrayThenList" />
         <item itemvalue="JUnit.MergeTwoSortedListsTest.when2SameArrayThenList" />
@@ -239,7 +240,14 @@
       <option name="project" value="LOCAL" />
       <updated>1711811723389</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="RemoveDubles">
+      <created>1711818483377</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1711818483377</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
