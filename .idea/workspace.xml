@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b084c3af-b89f-4853-89d9-6423ee831aa5" name="Changes" comment="MergeTwoUnSortedDifLists">
-      <change afterPath="$PROJECT_DIR$/src/test/java/ru/algoritms/MergeTwoSortedListsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/algoritms/CountOfNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ru/algoritms/CountOfNumbersTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/algoritms/MergeTwoSortedLists.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/algoritms/MergeTwoSortedLists.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +55,20 @@
       <recent name="ru.algoritms" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.MergeTwoSortedListsTest.when2DifferentArrayThenList">
+  <component name="RunManager" selected="JUnit.CountOfNumbersTest.when">
+    <configuration name="CountOfNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.algoritms.CountOfNumbers" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.algoritms.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MergeTwoSortedLists" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ru.algoritms.MergeTwoSortedLists" />
       <module name="leetcode" />
@@ -70,20 +82,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RomanToInt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.array.RomanToInt" />
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ru.array.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MergeTwoSortedListsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="CountOfNumbersTest.when" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -92,8 +91,9 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="ru.algoritms" />
-      <option name="MAIN_CLASS_NAME" value="ru.algoritms.MergeTwoSortedListsTest" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="MAIN_CLASS_NAME" value="ru.algoritms.CountOfNumbersTest" />
+      <option name="METHOD_NAME" value="when" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -132,11 +132,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.CountOfNumbersTest.when" />
+        <item itemvalue="Application.CountOfNumbers" />
         <item itemvalue="JUnit.MergeTwoSortedListsTest.when2DifferentArrayThenList" />
         <item itemvalue="JUnit.MergeTwoSortedListsTest.when2SameArrayThenList" />
         <item itemvalue="Application.MergeTwoSortedLists" />
-        <item itemvalue="JUnit.MergeTwoSortedListsTest" />
-        <item itemvalue="Application.RomanToInt" />
       </list>
     </recent_temporary>
   </component>
@@ -219,7 +219,14 @@
       <option name="project" value="LOCAL" />
       <updated>1711750928703</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="MergeTwoUnSortedDifLists">
+      <created>1711805686335</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1711805686335</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
