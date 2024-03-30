@@ -12,7 +12,7 @@ public class MergeTwoSortedLists {
         List<Integer> list = new ArrayList<>(list1.size() + list2.size());
         list.addAll(list1);
         list.addAll(list2);
-        list.sort(Comparator.reverseOrder());
+        list.sort(Comparator.naturalOrder());
         return list;
     }
 
