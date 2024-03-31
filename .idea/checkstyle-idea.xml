@@ -1,19 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="CheckStyle-IDEA" serialisationVersion="2">
-    <checkstyleVersion>10.12.5</checkstyleVersion>
+    <checkstyleVersion>10.13.0</checkstyleVersion>
     <scanScope>JavaOnlyWithTests</scanScope>
-    <suppressErrors>true</suppressErrors>
     <copyLibs>true</copyLibs>
     <option name="thirdPartyClasspath" />
     <option name="activeLocationIds">
-      <option value="a7b19a19-4862-4104-9c11-e27ebdd05e04" />
+      <option value="e723bfef-486a-4346-abc0-ffdcca76e347" />
     </option>
     <option name="locations">
       <list>
         <ConfigurationLocation id="bundled-sun-checks" type="BUNDLED" scope="All" description="Sun Checks">(bundled)</ConfigurationLocation>
         <ConfigurationLocation id="bundled-google-checks" type="BUNDLED" scope="All" description="Google Checks">(bundled)</ConfigurationLocation>
-        <ConfigurationLocation id="a7b19a19-4862-4104-9c11-e27ebdd05e04" type="LOCAL_FILE" scope="All" description="leetcode">$PROJECT_DIR$/../job4j_elementary/checkstyle.xml</ConfigurationLocation>
+        <ConfigurationLocation id="e723bfef-486a-4346-abc0-ffdcca76e347" type="LOCAL_FILE" scope="All" description="job4j">$PROJECT_DIR$/../job4j_tracker/checkstyle.xml</ConfigurationLocation>
       </list>
     </option>
   </component>
