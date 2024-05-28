@@ -23,6 +23,7 @@ public class NumberOfChars {
                 .collect(Collectors.groupingBy(c -> c, Collectors.counting()));
         map.forEach((k, v) -> System.out.println(k + " : " + v));
     }
+
     /**
      * Метод использует TreeMap для подсчета количества
      * уникальных символов в введенной строке и хранения их
