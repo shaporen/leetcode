@@ -17,6 +17,6 @@ public class LengthOfLastWord {
 
     public static void main(String[] args) {
         LengthOfLastWord llw = new LengthOfLastWord();
-        System.out.println(llw.lengthOfLastWord("Hello World"));
+        System.out.println(llw.lengthOfLastWord("Hello Worlde"));
     }
 }
