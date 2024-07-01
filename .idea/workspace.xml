@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b084c3af-b89f-4853-89d9-6423ee831aa5" name="Changes" comment="natural order/comparator">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/example/SortThrough.java" afterDir="false" />
+    <list default="true" id="b084c3af-b89f-4853-89d9-6423ee831aa5" name="Changes" comment="способы перебора элементов коллекции">
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/example/Entries.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/example/Example.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/example/NaturalOrder.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,6 +40,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Entries.executor": "Run",
     "Application.Example.executor": "Run",
     "Application.LengthOfLastWord.executor": "Run",
     "Application.NumberOfChars.executor": "Run",
@@ -318,7 +318,15 @@
       <option name="project" value="LOCAL" />
       <updated>1719860949740</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="способы перебора элементов коллекции">
+      <option name="closed" value="true" />
+      <created>1719862411924</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1719862411924</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -346,6 +354,7 @@
     <MESSAGE value="LengthOfLastWord" />
     <MESSAGE value="NumberOfChars" />
     <MESSAGE value="natural order/comparator" />
-    <option name="LAST_COMMIT_MESSAGE" value="natural order/comparator" />
+    <MESSAGE value="способы перебора элементов коллекции" />
+    <option name="LAST_COMMIT_MESSAGE" value="способы перебора элементов коллекции" />
   </component>
 </project>
