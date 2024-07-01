@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b084c3af-b89f-4853-89d9-6423ee831aa5" name="Changes" comment="LengthOfLastWord">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/algoritms/NumberOfChars.java" afterDir="false" />
+    <list default="true" id="b084c3af-b89f-4853-89d9-6423ee831aa5" name="Changes" comment="NumberOfChars">
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/example/Example.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -27,9 +27,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2ar4POlPkckG0x4sUaliMjgWupP" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -40,6 +40,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Example.executor": "Run",
     "Application.LengthOfLastWord.executor": "Run",
     "Application.NumberOfChars.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -48,7 +49,7 @@
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/projects/leetcode/checkstyle.xml",
+    "last_opened_file_path": "C:/projects/leetcode",
     "settings.editor.selected.configurable": "org.infernus.idea.checkstyle.CheckStyleConfigurable"
   }
 }]]></component>
@@ -60,7 +61,7 @@
       <recent name="ru.algoritms" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.NumberOfChars">
+  <component name="RunManager">
     <configuration name="CountOfNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ru.algoritms.CountOfNumbers" />
       <module name="leetcode" />
@@ -275,7 +276,23 @@
       <option name="project" value="LOCAL" />
       <updated>1716917640581</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="NumberOfChars">
+      <option name="closed" value="true" />
+      <created>1716922625618</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1716922625618</updated>
+    </task>
+    <task id="LOCAL-00020" summary="NumberOfChars">
+      <option name="closed" value="true" />
+      <created>1716922735708</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1716922735708</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -301,6 +318,7 @@
     <MESSAGE value="RemoveDubles" />
     <MESSAGE value="bug fix" />
     <MESSAGE value="LengthOfLastWord" />
-    <option name="LAST_COMMIT_MESSAGE" value="LengthOfLastWord" />
+    <MESSAGE value="NumberOfChars" />
+    <option name="LAST_COMMIT_MESSAGE" value="NumberOfChars" />
   </component>
 </project>
