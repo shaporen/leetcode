@@ -34,5 +34,10 @@ public class Example {
         list1.add(new Person("Alice"));
         list1.sort(Comparator.comparing(Person::getName));
         System.out.println(list1);
+
+        List<String> list2 = Arrays.asList("b", "c", "a");
+        list2.stream()
+                .sorted()
+                .forEach(System.out::println);
     }
 }
