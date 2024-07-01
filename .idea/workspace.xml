@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b084c3af-b89f-4853-89d9-6423ee831aa5" name="Changes" comment="natural order/comparator">
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/example/Example.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/example/Example.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/example/SortThrough.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/example/Example.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/example/NaturalOrder.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +44,7 @@
     "Application.Example.executor": "Run",
     "Application.LengthOfLastWord.executor": "Run",
     "Application.NumberOfChars.executor": "Run",
+    "Application.SortThrough.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -307,7 +310,15 @@
       <option name="project" value="LOCAL" />
       <updated>1719860534389</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="natural order/comparator">
+      <option name="closed" value="true" />
+      <created>1719860949740</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1719860949740</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

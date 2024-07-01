@@ -2,7 +2,7 @@ package ru.example;
 
 import java.util.*;
 
-public class Example {
+public class NaturalOrder {
     public static class Person {
         private final String name;
 
