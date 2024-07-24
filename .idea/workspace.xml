@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b084c3af-b89f-4853-89d9-6423ee831aa5" name="Changes" comment="способы перебора элементов коллекции">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/example/Entries.java" afterDir="false" />
+    <list default="true" id="b084c3af-b89f-4853-89d9-6423ee831aa5" name="Changes" comment="entries">
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/example/DecoderBase64.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/example/Entries.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/example/Entries.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,6 +28,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
 }</component>
@@ -40,10 +44,12 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.DecoderBase64.executor": "Run",
     "Application.Entries.executor": "Run",
     "Application.Example.executor": "Run",
     "Application.LengthOfLastWord.executor": "Run",
     "Application.NumberOfChars.executor": "Run",
+    "Application.ReflectionExample.executor": "Run",
     "Application.SortThrough.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -326,7 +332,15 @@
       <option name="project" value="LOCAL" />
       <updated>1719862411924</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="entries">
+      <option name="closed" value="true" />
+      <created>1719865273595</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1719865273595</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -355,6 +369,7 @@
     <MESSAGE value="NumberOfChars" />
     <MESSAGE value="natural order/comparator" />
     <MESSAGE value="способы перебора элементов коллекции" />
-    <option name="LAST_COMMIT_MESSAGE" value="способы перебора элементов коллекции" />
+    <MESSAGE value="entries" />
+    <option name="LAST_COMMIT_MESSAGE" value="entries" />
   </component>
 </project>

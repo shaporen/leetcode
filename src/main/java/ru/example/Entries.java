@@ -24,5 +24,6 @@ public class Entries {
         }
 
         System.out.println(ages.values());
+        Queue<Integer> queue = new ArrayDeque<>();
     }
 }
